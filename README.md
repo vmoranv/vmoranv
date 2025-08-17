@@ -14,15 +14,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vmoranv)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 💻 技能栈
+## 💻 技术栈
 
 ### 编程语言
 
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus) ![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![](https://img.shields.io/badge/TSX-blue?style=flat-square&logo=react&logoColor=white)
-
-### 样式表
-
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=sass&logoColor=white) ![](https://img.shields.io/badge/Stylus-333333?style=flat-square&logo=stylus&logoColor=white) ![](https://img.shields.io/badge/UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white) ![](https://img.shields.io/badge/QSS-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 ### 标记语言
 
