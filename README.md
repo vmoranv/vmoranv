@@ -5,10 +5,8 @@
 全栈开发者(Monorepo项目Aolarhapsody)，Flash小游戏(奥拉)逆向，Astrbot插件作者(如pixiv_search)，出身C++(but不想碰了喵TAT)，了解过Web3行业。
 
 ## 📊 GitHub 统计
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vmoranv&background=003f2f&stroke=d0e9ff&ring=a2d8f4&dates=d0e9ff&sideNums=a2d8f4&currStreakNum=a2d8f4&excludeDaysLabel=d0e9ff&sideLabels=d0e9ffdd&currStreakLabel=a2d8f4" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vmoranv)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vmoranv)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vmoranv&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💻 技术栈
 
