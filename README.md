@@ -5,26 +5,12 @@
 全栈开发者(Monorepo项目Aolarhapsody)，Flash小游戏(奥拉)逆向，Astrbot插件作者(如pixiv_search)，出身C++(but不想碰了喵TAT)，了解过Web3行业。
 
 ## 📊 GitHub 统计
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vmoranv)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=vmoranv&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 💻 技术栈
+<img src="https://github-profile-trophy.vercel.app/?username=vmoranv&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 
 ### 编程语言
 
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus) ![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![](https://img.shields.io/badge/TSX-blue?style=flat-square&logo=react&logoColor=white)
-
-### 标记语言
-
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white) ![](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white) ![](https://img.shields.io/badge/TOML-9C4121?style=flat-square&logo=toml&logoColor=white) ![](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json&logoColor=white) ![](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=white) ![](https://img.shields.io/badge/QML-41CD52?style=flat-square&logo=qt&logoColor=white)
-
-### 框架和库
-
-![](https://img.shields.io/badge/VanillaJS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white) ![](https://img.shields.io/badge/tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white) ![](https://img.shields.io/badge/Win32API-blue?style=flat-square&logo=wine&logoColor=white) ![](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![](https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite&logoColor=white) ![](https://img.shields.io/badge/Vitepress-black?style=flat-square&logo=vitepress&logoColor=white) ![](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
-
-### 数据库
-
-![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmoranv&stats_format=bytes" />
 
 ## 📫 联系我
 
