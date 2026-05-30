@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=vmoranv&section=header&reversal=false&fontSize=80&fontAlignY=40&animation=fadeIn&desc=Builder%20%7C%20AI%20Developer%20%7C%20Automation%20Enjoyer&descSize=25&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=vmoranv&section=header&reversal=false&fontSize=80&fontAlignY=40&animation=fadeIn&desc=Builder%20%7C%20AI%20Developer%20%7C%20Reverse%20Engineer&descSize=25&descAlignY=65" />
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@
 
 ## 🚀 Current Focus
 
-* 🧩 AI API systems
+* 🧩 AI Agent systems
 * 🤖 Automation workflows
 * ⚙️ DevOps pipelines
 * 🔐 Secure & scalable architectures
